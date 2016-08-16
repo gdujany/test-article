@@ -1,2 +1,2 @@
-main.tex
-section_Selection_bla_bla__.tex
+sections/intro.tex
+sections/selection.tex
